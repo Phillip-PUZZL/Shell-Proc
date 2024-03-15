@@ -1,0 +1,8 @@
+1. Integrate pipes  (DONE)
+2. Fix cd command to allow for paths with spaces (DONE)
+3. Implement || and && operators (DONE)
+4. Implement > output redirection operator (NOT DOING)
+5. Comment (DONE)
+6. proc_parse and shell in same folder with Makefile working on both (DONE)
+7. README.txt (DONE)
+8. Ensure that it works on Linux (DONE)
